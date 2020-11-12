@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Eline Maaike de Weerd"
-  avatar : "/assets/images/bio_photo.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Cosmology. Maths. Literature. Art."
   links:
     # - label: "Website"
