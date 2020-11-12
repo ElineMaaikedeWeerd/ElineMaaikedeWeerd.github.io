@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   daß ich schon im letzten Zimmer bin, und dort im Winkel steht die Falle, in die ich laufe.«
 twitter_username: linuscosinus
 github_username: ElineMaaikedeWeerd
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
