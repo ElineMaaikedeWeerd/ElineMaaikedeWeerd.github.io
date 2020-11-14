@@ -37,7 +37,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-include: ["_pages"]
+# include: ["_pages"]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -63,7 +63,8 @@ plugins:
 author:
   name   : "Eline Maaike de Weerd"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Cosmology. Maths. Literature. Art."
+  bio    : "Cosmology PhD @ [QMUL](https://www.qmul.ac.uk/spa/astro/) | [large scale structure | relativistic effects |
+              galaxy bispectrum](https://inspirehep.net/authors/1751813). Running, cycling, literature, poetry."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
