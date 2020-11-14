@@ -86,8 +86,11 @@ author:
 footer:
   links:
     - label: ""
-      icon: "fas fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:e.deweerd@qmul.ac.uk"
+    - label: ""
+      icon: "fas fa-fw fa-info-circle"
+      url: "https://inspirehep.net/authors/1751813"
     - label: ""
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/linuscosinus"
