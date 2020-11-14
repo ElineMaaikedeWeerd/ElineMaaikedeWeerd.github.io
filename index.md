@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: splash
 permalink: /
 hidden: true
 ---
 
-blob
+»Ach«, sagte die Maus, »die Welt wird enger mit jedem Tag. Zuerst war sie so breit, daß ich Angst hatte, ich lief weiter und war glücklich, daß ich endlich rechts und links in der Ferne Mauern sah, aber diese langen Mauern eilen so schnell aufeinander zu, daß ich schon im letzten Zimmer bin, und dort im Winkel steht die Falle, in die ich laufe.«
