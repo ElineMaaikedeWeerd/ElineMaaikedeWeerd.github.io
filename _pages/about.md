@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /aboutme/
+title: "About Me"
 ---
 
 I'm a PhD student in the Cosmology and Relativity group at [Queen Mary University of London](https://www.qmul.ac.uk/spa/astro/). My primary research interests are in theoretical aspects of large scale structure, relativistic effects, and the galaxy bispectrum. In addition to this I'm interested in detectability of these relativistic signatures in future surveys, parameter forecasts and Fisher matrix techniques. 
