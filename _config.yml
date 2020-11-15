@@ -16,10 +16,7 @@
 title: Eline Maaike de Weerd
 email: e.deweerd@qmul.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  EM's interweb-bubble. »die Welt wird enger mit jedem Tag. Zuerst war sie so breit, 
-  daß ich Angst hatte, ich lief weiter und war glücklich, daß ich endlich rechts und 
-  links in der Ferne Mauern sah, aber diese langen Mauern eilen so schnell aufeinander zu, 
-  daß ich schon im letzten Zimmer bin, und dort im Winkel steht die Falle, in die ich laufe.«
+  EMW's home away from home away from .. 
 twitter_username: linuscosinus
 github_username: ElineMaaikedeWeerd
 minimal_mistakes_skin: dark
@@ -65,7 +62,7 @@ author:
   name   : "Eline Maaike de Weerd"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Cosmology PhD @ [**QMUL**](https://www.qmul.ac.uk/spa/astro/): [*large scale structure, relativistic effects,
-              galaxy bispectrum*](https://inspirehep.net/authors/1751813). Running, cycling, literature, poetry."
+              galaxy bispectrum*](https://inspirehep.net/authors/1751813). Running, cycling, literature, poetry. (she/her)"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"

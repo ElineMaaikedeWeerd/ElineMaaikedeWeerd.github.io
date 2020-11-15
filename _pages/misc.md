@@ -3,7 +3,7 @@ permalink: /misc/
 title: "Miscellaneous"
 ---
 
-### Thoughts
+### Poetry & Art
 
 [Collins and Goya's candle hat](http://thetaleofsirbob.blogspot.com/2011/05/collins-and-goyas-candle-hat.html)
 
