@@ -3,4 +3,5 @@ permalink: /misc/
 title: "Miscellaneous"
 ---
 
-blob
+
+The sleep of reason produces monsters
