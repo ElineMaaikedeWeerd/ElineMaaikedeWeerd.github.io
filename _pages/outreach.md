@@ -1,6 +1,6 @@
 ---
 permalink: /outreach/
-title: "Teaching and Outreach"
+title: "Teaching & Outreach"
 ---
 
 blob

@@ -9,8 +9,8 @@ main:
     url: /aboutme/
   - title: "Research"
     url: /research/
-  - title: "Publications"
-    url: /research/publications/
+  # - title: "Publications"
+  #   url: /research/publications/
   - title: "Teaching & Outreach"
     url: /outreach/
   - title: "Miscellaneous"
