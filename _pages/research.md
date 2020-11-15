@@ -11,25 +11,33 @@ My papers can be found below, as well as on [INSPIRE](https://inspirehep.net/aut
 ***
 
 **Detecting the relativistic bispectrum in 21cm intensity maps**
+
 *S. Jolicoeur, R. Maartens,* E.M. De Weerd, *O. Umeh, C. Clarkson, S. Camera*
+
 [arXiv:2009.06197](https://arxiv.org/abs/2009.06197https://arxiv.org/abs/2009.06197) 
 
 ***
 
 **Multipoles of the relativistic galaxy bispectrum**
+
 E.M. De Weerd, *C. Clarkson, S. Jolicoeur, R. Maartens, O. Umeh*
+
 [arXiv:1912.11016](https://arxiv.org/abs/1912.11016)
 
 ***
 
 **Detecting the relativistic galaxy bispectrum**
+
 *R. Maartens, S. Jolicoeur, O. Umeh,* E.M. De Weerd, *C. Clarkson, S. Camera*
+
 [arXiv:1911.02398](https://arxiv.org/abs/1911.02398)
 
 ***
 
 **The dipole of the galaxy bispectrum**
+
 *C. Clarkson*, E.M. De Weerd, *S. Jolicoeur, R. Maartens, O. Umeh*
+
 [arXiv:1812.09512](https://arxiv.org/abs/1812.09512)
 
 ***
