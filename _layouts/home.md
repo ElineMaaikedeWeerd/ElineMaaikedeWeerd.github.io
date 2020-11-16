@@ -10,4 +10,3 @@ excerpt: >
 	Blob
 
 ---
-
