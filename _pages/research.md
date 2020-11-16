@@ -14,7 +14,7 @@ My papers can be found below, as well as on [INSPIRE](https://inspirehep.net/aut
 
 *S. Jolicoeur, R. Maartens,* E.M. De Weerd, *O. Umeh, C. Clarkson, S. Camera*
 
-[arXiv:2009.06197](https://arxiv.org/abs/2009.06197https://arxiv.org/abs/2009.06197) 
+[arXiv:2009.06197](https://arxiv.org/abs/2009.06197) 
 
 ***
 
