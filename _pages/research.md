@@ -10,6 +10,14 @@ My papers can be found below, as well as on [INSPIRE](https://inspirehep.net/aut
 
 ***
 
+**Local primordial non-Gaussianity in the relativistic galaxy bispectrum** 
+
+*R. Maartens, S. Jolicoeur, O. Umeh*, E.M. De Weerd, *C. Clarkson*
+
+[arXiv:2011.13660](https://arxiv.org/abs/2011.13660)
+
+***
+
 **Detecting the relativistic bispectrum in 21cm intensity maps**
 
 *S. Jolicoeur, R. Maartens,* E.M. De Weerd, *O. Umeh, C. Clarkson, S. Camera*
