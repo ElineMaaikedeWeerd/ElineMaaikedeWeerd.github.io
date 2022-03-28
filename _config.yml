@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Eline Maaike de Weerd"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Theoretical physicist | PhD in cosmology. Running, cycling, literature, poetry. (she/her)"
+  bio    : "Theoretical physicist, PhD in cosmology. Running, cycling, literature, poetry. (she/her)"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
