@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Eline Maaike de Weerd
-email: e.deweerd@qmul.ac.uk
+email: elinemdeweerd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   EMW's webpage 
 twitter_username: linuscosinus
@@ -72,7 +72,7 @@ author:
     #   url: "https://github.com/ElineMaaikedeWeerd"
     - label: "Contact Me"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:e.deweerd@qmul.ac.uk"
+      url: "mailto:elinemdeweerd@gmail.com"
     - label: "Publications"
       icon: "fas fa-fw fa-info-circle"
       url: "https://inspirehep.net/authors/1751813"
@@ -87,7 +87,7 @@ footer:
   links:
     - label: ""
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:e.deweerd@qmul.ac.uk"
+      url: "mailto:elinemdeweerd@gmail.com"
     - label: ""
       icon: "fas fa-fw fa-info-circle"
       url: "https://inspirehep.net/authors/1751813"
